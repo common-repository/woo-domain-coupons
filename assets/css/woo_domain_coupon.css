@@ -1,0 +1,4 @@
+#woocommerce-coupon-data ul.wc-tabs li.domain_restriction_tab a::before {
+  font-family: WooCommerce;
+  content : '\e026';
+}
